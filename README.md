@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Jabber 👋
 
-<!--
-**JabberBinKibria/JabberBinKibria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student based in NYC, passionate about hardware, servers, and hands-on systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Focus & Interests
+- 🎓 Studying **Cybersecurity** (network defense, systems security)
+- 🖥️ Exploring **server hardware**, home servers, and physical infrastructure
+- 🐧 Learning Linux administration and command-line fundamentals
+- 📐 Solid background in academic mathematics and analytical problem-solving
+
+---
+
+### 🛠️ What I'm Learning & Working With
+
+- **OS & Systems:** Linux, Windows Server
+- **Hardware:** PC/server assembly, drive configurations, bare-metal setups
+- **Networking Basics:** IP addressing, routing, firewalls, and ports
+- **Scripting / Logic:** Bash, Python fundamentals
+
+---
+
+### 🎯 Current Goals
+- [ ] Build out a dedicated hardware lab / home server
+- [ ] Get hands-on with enterprise networking and virtualization
+- [ ] Work toward foundational security certifications (Security+, Network+)
+
+---
+
+### 📫 Connect
+- **LinkedIn:** https://www.linkedin.com/in/jabber-kibria-0a525315b/
+- **Email:** jabberkibria@gmail.com
